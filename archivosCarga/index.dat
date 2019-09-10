@@ -1,0 +1,270 @@
+Num Graph...........................|...Unid Type  Y/N
+  1 Volumen de alerta                hm3        0    1
+  2 Potencia hidro disponible        MW         0    1
+  3 Potencia termica disponible      MW         0    1
+  4 Caudales promedio historico      m3/s       0    0
+  5 Caudales                         m3/s       0    1
+  6 Demanda por sistema - inelastica GWh        0    1
+  7 Demanda por barra - inelastica   GWh        0    1
+  8 Volumen maximo                   hm3        0    1
+  9 Energia almacenable maxima       GWh        0    1
+ 10 Defluencia total maxima          m3/s       0    0
+ 11 Caudal turbinable maximo         m3/s       0    0
+ 12 Volumen minimo operativo         hm3        0    1
+ 13 Defluencia total minima          m3/s       0    0
+ 14 Caudal turbinable minimo         m3/s       0    0
+ 15 Costo de deficit                 k$         1    0
+ 16 Indicador de deficit por barra   0/1        1    0
+ 17 Indicador de violacion de qmin   0/1        1    0
+ 18 Indicador deficit por sistema    0/1        1    0
+ 19 Costo penalidad de vertimiento   k$/hm3     1    0
+ 20 Costo operativo termico          k$         1    1
+ 21 Costo violacion de vol.alerta    k$/hm3     1    0
+ 22 Costo violacion de def.tot.max   k$         1    0
+ 23 Costo violacion de vol.min.op    k$/hm3     1    0
+ 24 Costo violacion de def.tot.min   k$         1    0
+ 25 Flujo en los circuitos           MW         2    1
+ 26 Deficit                          GWh        2    1
+ 27 Deficit por barra                GWh        2    1
+ 28 Export&Import por area           GWh        2    1
+ 29 Cota final                       m          2    0
+ 30 Volumen final                    hm3        2    1
+ 31 Consumo de combustible           k.unid     2    1
+ 32 Tasa de consumo de combustible   un/hrs     2    0
+ 33 Generacion hidro                 GWh        2    1
+ 34 Interconexiones                  GWh        2    1
+ 35 Caudal vertido                   m3/s       2    1
+ 36 Energia almacenada               GWh        2    1
+ 37 Generacion termica               GWh        2    1
+ 38 Caudal turbinado                 m3/s       2    1
+ 39 Costo marginal por barra         $/MWh      3    1
+ 40 Costo marginal de circuito       k$/MW      3    0
+ 42 Costo marginal de intercambio    k$/MW      3    0
+ 43 Costo marginal de demanda        $/MWh      3    1
+ 44 Costo marginal de cons.comb.     $/un       3    0
+ 45 Costo marginal de tasa cons.     k$/un/h    3    0
+ 46 Valor marginal del agua          k$/hm3     3    1
+ 47 Costo marginal del embalse       k$/hm3     3    0
+ 48 Costo marginal ro ($/MWh/hm3)    $/ro       3    0
+ 49 Costo marginal de termica        k$/MW      3    0
+ 50 Costo marginal de turbinamiento  k$/m3/s    3    0
+ 51 Costo marg. demanda nodo unico   $/MWh      3    1
+ 52 VERE                             %          1    1
+ 53 VEREC (1.5%)                     %          1    1
+ 54 Limite de flujo en circuitos     MW         0    0
+ 55 Costo de arranque                k$         1    0
+ 56 Generacion hidro x CMg barra     k$         1    0
+ 57 Generacion termica x CMg barra   k$         1    0
+ 58 Gen. hidro x CMg nodo unico      k$         1    0
+ 59 Gen. termica x CMg nodo unico    k$         1    0
+ 60 Ingreso tarifario x circuito     k$         1    0
+ 61 Energia afluente por sistema     GWh        0    1
+ 62 Generacion hidro nodo unico      GWh        2    0
+ 63 Generacion termica nodo unico    GWh        2    0
+ 64 Demanda x CMg dem. - nodo unico  k$         1    0
+ 65 Demanda X CMg dem. - multinodal  k$         1    0
+ 66 Duraciones bloques               h          0    1
+ 67 Factor de produccion             MW/m3/s    2    1
+ 68 Perdidas en circuitos            MW         2    0
+ 69 Generacion termica minima        MW         0    0
+ 70 Indicador de circuito operando   0/1        0    0
+ 71 Costo oportunidad Gen. Hidro     $/MWh      3    0
+ 72 Potencia nominal hidro           MW         0    0
+ 73 Capacidad de intercambio         MW         0    0
+ 74 Remuneracion del intercambio     k$         1    0
+ 75 Costo operativo hidro            k$         1    0
+ 76 Costo unit. termicas - tramo 1   $/MWh      0    1
+ 77 Costo unit. termicas - tramo 2   $/MWh      0    0
+ 78 Costo unit. termicas - tramo 3   $/MWh      0    0
+ 79 Datos de arranque                k$         0    0
+ 80 Energia vertida                  GWh        2    1
+ 81 Tasa de salida forzada hidro     %          0    0
+ 82 Tasa de salida forzada termica   %          0    0
+ 83 Num.de unidades hidro operando         0    0    0
+ 84 Num. unidades termicas operando        0    0    0
+ 85 Gen.hidro - falla en circuito    GWh        2    0
+ 86 Gen.termica-falla en circuito    GWh        2    0
+ 87 C.Marg. por barra-falla circ.    $/MWh      3    0
+ 88 Deficit por barra-falla circ.    GWh        2    0
+ 89 Limite Export&Import por area    MW         0    0
+ 90 Volumen de espera                hm3        0    0
+ 91 Potencia nominal termica         MW         0    0
+ 92 Tasa salida historica hidro      %          0    0
+ 93 Tasa salida historica termica    %          0    0
+ 94 Restricciones de generacion      MW         0    0
+ 95 Angulo de la barra               grados     2    0
+ 96 Reserva rodante termica          MW         0    0
+ 97 Energia afluente de referencia   GWh        0    1
+ 99 Energia vertida turbinable       GWh        2    1
+100 Costo violacion turb. minimo     k$         1    0
+101 Limite reserva de generacion     MW         0    0
+102 Reserva de generacion            MW         2    1
+103 Cmg Reserva generacion           k$/MW      3    0
+104 Riego                            m3/s       0    1
+105 Violacion de riego               m3/s       2    0
+106 Reserva rodante hidro            MW         0    0
+107 Limite superior flujo circuitos  MW         0    0
+108 Limite inferior flujo circuitos  MW         0    0
+109 Suma de flujo en circuitos       MW         2    1
+110 Costo marginal suma flujo circ.  k$/MW      3    0
+111 Limite superior suma interc.     MW         0    0
+112 Limite inferior suma interc.     MW         0    0
+113 Suma de interconexiones          MW         2    0
+114 Costo marginal suma interc.      k$/MW      3    0
+115 Violacion volumen minimo         hm3        2    0
+116 Violacion volumen alerta         hm3        2    0
+117 Violacion rest. generacion       MW         2    0
+118 Violacion caudal turb. minimo    m3/s       2    0
+119 Violacion defluencia maxima      m3/s       2    0
+120 Violacion defluencia minima      m3/s       2    0
+121 Violacion reserva generacion     MW         2    0
+122 Enlace DC                        GWh        2    0
+123 Capacidad Enlace DC              MW         0    0
+124 Costo operativo (comb+transp)    k$         1    0
+125 Costo O&M termicas               k$         1    0
+126 Perdidas cuadraticas             MW         2    0
+127 Costo interconexion              $/MWh      0    0
+128 Costo total interconexion        k$         1    0
+129 Perdidas interconexion           MW         2    0
+130 Porcentaje energia almacenada    %          2    1
+131 Energia afluente 65% V.U.        GWh        0    0
+132 Factor de produccion 65% V.U.    MW/m3/s    0    0
+133 Produccion maxima de gas         MUV/d      0    0
+134 Produccion minima de gas         MUV/d      0    0
+135 Produccion de gas                MUV/d      2    0
+136 Costo de produccion de gas       $/UV       0    0
+137 Demanda de gas no-electrica      MUV/d      0    0
+138 Capacidad gasoducto -->          MUV/d      0    0
+139 Capacidad gasoducto <--          MUV/d      0    0
+140 Flujo en gasoducto -->           MUV/d      2    0
+141 Flujo en gasoducto <--           MUV/d      2    0
+142 Consumo de gas por termica       MUV/d      2    0
+143 Deficit demanda de gas no-el     MUV/d      2    0
+144 Costo marginal de rest.gas       $/UV       3    0
+145 Energia almacenada por embalse   GWh        2    1
+146 Consumo de comb. por termica     k.unid     2    1
+147 Margen de capacidad termica      MW         2    1
+148 Margen de capacidad hidro        MW         2    1
+149 Reserva primaria termica         MW         2    0
+150 Reserva secundaria termica       MW         2    0
+151 Reserva primaria hidro           MW         2    0
+152 Reserva secundaria hidro         MW         2    0
+153 Factor de produccion - PCV       MW/m3/s    2    0
+154 Energia almacenada - PCV         GWh        2    1
+155 Costo marginal turb. minimo      k$/m3/s    3    0
+156 Potencia Hidro (sin fallas)      MW         2    0
+157 Filtracion                       m3/s       2    0
+158 Factor de despacho hidro         %          2    0
+159 Factor de despacho termico       %          2    0
+160 Evaporacion                      m3/s       2    0
+161 Demanda por sistema - inelast. MWMW         0    0
+162 Costo violacion de riego         k$         1    0
+163 Costo viol. reserva generacion   k$         1    0
+164 Costo viol. restriccion gener.   k$         1    0
+165 Cmg Reserva rodante hidro        k$/MW      3    0
+166 Cmg Reserva rodante termica      k$/MW      3    0
+167 Cmg Enlaces DC                   k$/MW      3    0
+168 Perdidas en Enlace DC            MW         2    0
+169 Costo emision CO2 por termica    k$         1    0
+170 Costo termico (oper + emision)   k$         1    0
+171 Emision CO2 por termica          tonCO2     2    0
+173 Generacion renovable             GWh        2    0
+174 Gen. renovable x CMg barra       k$         1    0
+175 Gen. renovable x CMg nodo unico  k$         1    0
+176 Caudal turbinable disponible     m3/s       2    0
+177 Cmg restriccion generacion       k$/MW      3    0
+178 Cargamento de los circuitos      %          2    0
+183 Costo unit. emision CO2-seg 1    $/MWh      0    0
+191 Limite Curva Aversion Riesgo     GWh        0    0
+192 CMg Curva Aversion Riesgo        k$/MWh     3    0
+193 Costo viol. Curva Aversion Riesgok$         1    0
+216 Costo unit. emision CO2-seg 2    $/MWh      0    0
+217 Costo unit. emision CO2-seg 3    $/MWh      0    0
+220 Volumen inicial                  hm3        2    0
+221 Costo marginal produccion gas    k$/MUVd    3    0
+224 Viol. Curva Aversion a Riesgo    GWh        2    0
+225 Flujo circuitos-falla circ.      MW         2    0
+226 Circuito fallado-falla circ.           0    2    0
+227 Enlace DC-falla en circuito      GWh        2    0
+228 Flujo en transito por barra      MW         2    0
+229 Demanda por sistema - atendida   GWh        2    0
+230 Demanda por barra - atendida     GWh        2    0
+231 Demanda por sistema - maxima     GWh        0    0
+232 Demanda por clase - atendida     GWh        2    0
+234 Energia almacenable max. 65% V.U.GWh        0    0
+235 Indice de la isla en la red AC   Isla       0    0
+236 Energia almacenada por conj.emb. GWh        2    0
+237 Potencia nominal renovable       MW         0    0
+238 Energia vertida por central      GWh        2    1
+239 Valor contratado por contrato    kUC        0    0
+240 Maxima retirada por contrato     UC/h       0    1
+241 Valor restante por contrato      kUC        2    0
+242 Valor no consumido por contrato  kUC        2    0
+243 Valor consumido por contrato     kUC        2    0
+244 CMg valor adicional por contrato $/UC       3    0
+245 Volumen max. reserv. combustible kUC        0    0
+246 Inyeccion maxima reserv. comb.   UC/h       0    0
+247 Retiro maximo reserv. comb.      UC/h       0    0
+248 Volumen final no reserv. comb.   kUC        2    0
+249 Inyeccion reserv. combustivel    kUC        2    0
+250 Retirada reserv. combustivel     kUC        2    0
+251 Consumo de termica via contratos kUC        2    0
+252 Consumo de termica via res. comb.kUC        2    0
+253 Valor contratato ToP por contratokUC        0    0
+254 Valor restante ToP por contrato  kUC        2    0
+255 Valor ToP no cons. por contrato  kUC        2    0
+256 CMg valor ToP por contrato       $/UC       3    0
+257 Valor ToP consumido por contrato kUC        2    0
+258 Demanda por clase - inelastica   GWh        0    0
+259 Demanda por clase - maxima       GWh        0    0
+260 Demanda por barra - maxima       GWh        0    1
+261 Demanda por clase - beneficio    k$         1    0
+262 Costo ToP por contrato           k$         0    0
+263 Costo adicional por contrato     k$         1    0
+264 Valor contratato Adc por contratokUC        0    0
+265 Valor restante Adic. por contratokUC        2    0
+266 Valor Adic consumido por contratokUC        2    0
+267 Valor Adic nao cons. por contratokUC        2    0
+268 Costo por contrato               k$         1    0
+269 Volumen final (%VUTIL)           %          2    0
+270 Gen.termica x CMg demanda        k$         1    0
+271 Gen.hidro x CMg demanda          k$         1    0
+272 Gen.renovable x CMg demanda      k$         1    0
+273 Deficit (% de la demanda)        %          2    0
+274 Deficit por barra (% demanda)    %          2    0
+278 Mapeo hora-bloque                Bloq.      0    0
+279 Generacion termica en MW         MW         2    0
+290 Demanda x CMg barra              k$         1    0
+291 Energia almacenada 65% V.U.      GWh        2    0
+293 CMg de combustible en el reserv. $/UC       3    0
+294 CMg capacidad reserv. comb.      $/UC       3    0
+296 Violacion rest. vertimiento min. m3/s       2    0
+297 Costo viol. rest. vertimiento mink$         1    0
+298 Vertimiento minimo (restricion)  m3/s       0    0
+299 Indicador rst. seguridad activa  0/1        1    0
+300 Indice de Lerner para transmisionpu         1    0
+301 Costo futuro                     k$         2    0
+302 Costo inmediato por sistema      k$         2    0
+303 Costos por categoria             k$         2    0
+304 Vertimiento generacion renovable GWh        2    0
+305 Ingreso tarifario x circuito (>0)k$         1    0
+306 Costo reserva secundaria hidro   k$         1    0
+307 Costo reserva secundaria termica k$         1    0
+308 Energia afluente por hidro       GWh        0    0
+310 Decision de commitment termico   pu         2    0
+311 Generacion renovable (p.u.)      pu         2    0
+312 Escenarios renovables sorteados        0    2    0
+313 Generacion neta de bateria       MWh        2    0
+314 Alm. de energia en bateria       MWh        2    0
+315 Costo marginal de Alm. de bateria$/MWh      3    0
+317 Costo marginal de cap. de bateria$/MWh      3    0
+321 Factor de produccion acumulado   MW/m3/s    2    0
+323 Exceso de generacion por sistema GWh        2    0
+324 Exceso de generacion por barra   GWh        2    0
+325 Decision de arranque termico     0/1        2    0
+327 Duracion de los bloques en pu    pu         0    0
+329 Costo de viol. de vol. max. op.  k$         1    0
+330 Viol. de vol. max. op.           hm3        2    0
+331 Volumen maximo operativo         hm3        0    0
+332 Costo marg. de volumen max op.   $/hm3      3    0
+333 Reserva secundaria batería       MW         2    0

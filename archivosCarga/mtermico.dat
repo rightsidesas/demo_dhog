@@ -1,0 +1,44 @@
+$version=1
+MOD: 15/10/2019
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+2045 TC_GECELCA32    1                   0.    273.     20.     20.   10.12              100.                                                                       0.                                         0.
+MOD: 30/11/2019
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+2080 TERMONORTE      1                   0.    88.6     15.     15.   15.87              100.                                                                       0.                                         0.
+MOD: 30/12/2019
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+2084 TERMO_JAGUEY    1                   0.    19.4     20.     20.     8.4              100.                                                                       0.                                         0.
+2085 TERMORUBIALE    1                   0.    19.4     20.     20.     8.4              100.                                                                       0.                                         0.
+MOD: 30/11/2020
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+2018 TERMOCENTRO     1                   0.      0.    100.    100.    8.03              100.                                                                       0.                                         1.
+MOD: 30/12/2020
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+2084 TERMO_JAGUEY    1                   0.    19.4     15.     15.     8.4              100.                                                                       0.                                         0.
+2085 TERMORUBIALE    1                   0.    19.4     15.     15.     8.4              100.                                                                       0.                                         0.
+MOD: 01/12/2022
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+1090 TERMOVALLE      1                   0.    240.   14.23   18.49    8.23              100.                                                                       0.                                         0.
+2020 CANDELARIA1     1                   0.      0.    100.    100.    6.48              100.                                                                       0.                                         0.
+2024 CANDELARIA2     1                   0.      0.    100.    100.    6.48              100.                                                                       0.                                         0.
+2032 TERMO YOPAL2    1                   0.      0.    100.    100.     6.3              100.                                                                       0.                                         0.
+2044 C_CANDELARIA    1                   0.    555.     20.     20.    6.48              100.                                                                       0.                                         0.
+2088 ELTESORITO      1                   0.    200.     20.     20.    6.48              100.                                                                       0.                                         0.
+2092 TERMOYOPALG3    1                   0.     50.     20.     20.    6.48              100.                                                                       0.                                         0.
+2093 TERMOYOPALG4    1                   0.     50.     20.     20.    6.48              100.                                                                       0.                                         0.
+2094 TERMOYOPALG5    1                   0.     50.     20.     20.    6.48              100.                                                                       0.                                         0.
+2096 TERMOCARIBE3    1                   0.     42.     20.     20.     8.4              100.                                                                       0.                                         0.
+2102 TERMOSOLO1      1                   0.    148.     20.     20.     8.4              100.                                                                       0.                                         0.
+2103 TERMOSOLO2      1                   0.     80.     20.     20.     8.4              100.                                                                       0.                                         0.
+MOD: 01/12/2023
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+2088 ELTESORITO      1                   0.    200.     15.     15.    6.48              100.                                                                       0.                                         0.
+2092 TERMOYOPALG3    1                   0.     50.     15.     15.    6.48              100.                                                                       0.                                         0.
+2093 TERMOYOPALG4    1                   0.     50.     15.     15.    6.48              100.                                                                       0.                                         0.
+2094 TERMOYOPALG5    1                   0.     50.     15.     15.    6.48              100.                                                                       0.                                         0.
+2096 TERMOCARIBE3    1                   0.     42.     15.     15.     8.4              100.                                                                       0.                                         0.
+2102 TERMOSOLO1      1                   0.    148.     15.     25.     8.4              100.                                                                       0.                                         0.
+2103 TERMOSOLO2      1                   0.     80.     15.     15.     8.4              100.                                                                       0.                                         0.
+MOD: 02/12/2023
+!Num ...Nombre... #Uni Tipo .PotIns .GerMin .GerMax ..Teif. ..Ih... .CVaria .MR. Comb ...G1.. .CEsp.1 ...G2.. .CEsp.2 ...G3.. .CEsp.3 NAdF ...1 ...2 ...3 ComT CTransp StartUp sfal NGas NuCC ..NombreCC.. CoefE.
+2044 C_CANDELARIA    1                   0.    555.     15.     15.    6.48              100.                                                                       0.                                         0.

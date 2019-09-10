@@ -1,0 +1,120 @@
+WARN  Archivo: hinflw_w.dat, Línea: 1. No se encontró el número de rio 518 en la base de datos del DHOG.
+WARN  Archivo: hinflw_w.dat. No se encontró información para el rio Chili en el SDDP.
+WARN  Archivo: hinflw_w.dat. No se encontró información para el rio CAA en el SDDP.
+WARN  Archivo: hinflw_w.dat. No se encontró información para el rio CAB en el SDDP.
+WARN  Archivo: hinflw_w.dat. No se encontró información para el rio CARG en el SDDP.
+WARN  Archivo: hinflw_w.dat. No se encontró información para el rio Miel2 en el SDDP.
+WARN  Archivo: hinflw_w.dat. No se encontró información para el rio PorvenirII en el SDDP.
+WARN  Archivo: chidroco.dat, Línea: 18. El recurso RIOGRANDE 1 no existe en la base de datos del DHOG.
+WARN  Archivo: chidroco.dat, Línea: 38. El recurso SALTO II no existe en la base de datos del DHOG.
+WARN  Archivo: chidroco.dat, Línea: 40. El recurso LAGUN-LIMON no existe en la base de datos del DHOG.
+WARN  Archivo: chidroco.dat, Línea: 50. El recurso PRADO4 no existe en la base de datos del DHOG.
+WARN  Archivo: pmhiseco.dat, Línea: 49. El recurso SALTO II no existe en la base de datos del DHOG.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 3. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 4. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 5. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 6. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 7. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 8. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 9. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 10. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 11. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 12. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 13. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 14. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 15. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 16. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 17. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 18. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 19. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 20. Número inválido.
+ERROR Archivo: vminseco.dat, Línea: 88, Columna: 21. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 35. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 36. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 37. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 38. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 39. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 40. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 41. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 42. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 43. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 44. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 45. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 46. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 47. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 48. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 49. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 50. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 51. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 15, Columna: 52. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 16. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 17. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 18. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 19. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 20. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 21. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 22. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 23. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 24. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 25. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 26. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 27. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 28. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 29. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 30. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 31. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 32. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 33. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 34. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 35. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 36. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 37. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 38. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 39. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 40. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 41. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 42. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 43. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 44. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 45. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 46. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 47. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 48. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 49. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 50. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 51. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 52. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 16, Columna: 53. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 3. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 4. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 5. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 6. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 7. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 8. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 9. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 10. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 11. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 12. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 13. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 14. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 15. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 16. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 17. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 18. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 19. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 20. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 21. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 22. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 23. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 24. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 25. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 26. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 27. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 28. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 29. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 30. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 31. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 32. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 33. Número inválido.
+ERROR Archivo: vespseco.dat, Línea: 17, Columna: 34. Número inválido.
+WARN  Archivo: ccombuco.dat, Línea: 9. El combustible NONE no existe en la base de datos del DHOG.

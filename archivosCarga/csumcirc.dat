@@ -1,0 +1,20 @@
+$version=1
+! Res (...Nome...) ........LB ........UB ..coef ............ ..coef ............ ..coef ............ ..coef ............ ..coef ............ ..coef ............
+    2 sn marcos        -9999.       500.      1 SnMr5-SnMr2       1 Virgn5Virgn2 
+    3 PrimavBacata     -9999.      1375.     -1 Bact5-Prmvr5     -1 Norst2-Purn2 
+    4 Bet               -999.       180.      1 Betn2-Betn1  
+    5 SC               -9999.      1240.     -1 SnCr5-SnCr2      -1 SnCr5-SnCr22 
+    6 playas           -9999.       920.      1 Jags2-Maln2      -1 Prmvr5-SnCr5 
+    7 primve           -9999.       910.     -1 Prmvr5-SnCr5     -1 Prmvr5Prmvr2 
+    9 Tebsa Sabana     -9999.       565.     -1 Sabn2-Tebsa2 
+   11 Nordeste         -9999.      1060.      1 Chvr2-Soch2      -1 Comn2-Prmvr2     -1 Gutgr2Prmvr2      1 Ocaña5Ocaña2      1 Ocaña5Sogms5      1 Prmvr5Sogms5 
+   16 GuacaMesa        -9999.       475.      1 Guaca2-Mesa2 
+   17 ScarlVirg5        -999.       500.      1 SnCr5-Virgn5 
+   22 ancn2-Ancn2      -9999.       500.      1 Ancn2-Ancn2  
+   23 Sogamoso         -9999.       600.     -1 Sogms5Sogms2 
+   24 Chiv-Guav220     -9999.       555.      1 Chvr2-Guv2   
+   25 Pars-NvaEsp      -9999.       420.     -1 NvEsp2-Pars2 
+   26 Boliv-Copey      -9999.       375.     -1 Bolvr5Bolvr2     -1 Copey2-Fund2 
+   27 Bolv-Copey       -9999.       405.      1 Bolvr5Copey5     -1 Copey2-Fund2 
+   28 Copey-Vall       -9999.       230.      1 Copey2-Vall2 
+   29 Primv-Bacat      -9999.       900.     -1 Bact5-Prmvr5 

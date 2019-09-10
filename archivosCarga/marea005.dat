@@ -1,0 +1,16 @@
+$version=1
+!D/MM/YYYY  .Num ....Name.... KeyWord     Blck .....Value
+01/01/1900     1 CARIBE       EXPORT         *      9999.
+01/01/1900     1 CARIBE       IMPORT         *      1200.
+01/01/1900     3 ANTIOQUIA    EXPORT         *      9999.
+01/01/1900     3 ANTIOQUIA    IMPORT         *      9999.
+01/01/1900     4 NORDESTE     EXPORT         *      9999.
+01/01/1900     4 NORDESTE     IMPORT         *      9999.
+01/01/1900     5 ORIENTAL     EXPORT         *      9999.
+01/01/1900     5 ORIENTAL     IMPORT         *      9999.
+01/01/1900     6 SUROCCIDEN   EXPORT         *      9999.
+01/01/1900     6 SUROCCIDEN   IMPORT         *      9999.
+01/01/1900     7 ECUADOR      EXPORT         *         0.
+01/01/1900     7 ECUADOR      IMPORT         *         0.
+28/02/2019     1 CARIBE       IMPORT         *      1500.
+30/11/2020     1 CARIBE       IMPORT         *      2150.

@@ -1,0 +1,11 @@
+!Num Nome........ UComb.. Custo... EmiCO2 PC.... UE.....
+   1 GASNACIO     MBTU        6.69                      
+   2 GASIMPOR     MBTU        6.56                      
+   3 ACPM         MBTU         16.                      
+   4 CARBON       MBTU          3.                      
+   5 COMBUSTOLEO  MBTU         12.                      
+   6 MGYLCENT     MBTU       29.07                      
+   7 GAS-YOPAL    MBTU        1.15                      
+  11 NONE         MBTU          0.                      
+   8 GLP          MBTU        12.7                      
+   9 BIOMASA      MBTU          0.                      

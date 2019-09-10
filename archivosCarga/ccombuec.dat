@@ -1,0 +1,27 @@
+!Num Nome........ UComb.. Custo... EmiCO2 PC.... UE.....
+   1 Fuel Oil 4   galón      0.632   0.01               
+   2 Diesel       galón       0.82   0.01               
+   3 Gas Natural  KPC       2.7967   0.05     8.        
+   4 Pasada                     0.     0.               
+   5 Nafta        galón     0.6678 0.0079               
+   6 FO 6 Esme    galón     0.3886 0.0047               
+   7 FO 6 SHGH    galón     0.4272 0.0047               
+   8 FO 6 SHGUA   galón     0.4029 0.0047               
+   9 EcuaImpCol2  MWh           5.     0.               
+  10 EcuaImpCol1  MWh           0.     0.               
+  11 EcuaImpPer2  MWh           0.     0.               
+  12 EcuaExpCol   MWh           0.     0.               
+  13 EcuExpPer    MWh           0.     0.               
+  14 FO 6 DES     galón     0.3834 0.0047               
+  15 FO 6 TGUAY   galón     0.3917 0.0047               
+  16 Gas Arenilla MBTU        2.25     0.               
+  17 FO 6 GROCA   galón     0.4349 0.0047               
+  18 FO 6 PRO     galón     0.5577 0.0047               
+  19 FO 4 Estatal gal       0.4896 0.0109               
+  20 FO4DStaElena galón     0.5226 0.0109               
+  21 FO6DQuevedo  galón     0.4209 0.0109               
+  22 FO6 Manta2   galón     0.4209                      
+  23 FO6 Mira1112 galón      0.514                      
+  24 GNL          MMBtu       17.5                      
+  25 Diesel Sust  galón       0.82                      
+  26 Diesel Pas   galón       0.82                      

@@ -1,0 +1,9 @@
+$version=1
+!D/MM/YYYY  .Num ....Name.... KeyWord     Blck .....Value
+01/01/1900     1 COL - ECU    CapacFT        1        220     
+01/01/1900     1 COL - ECU    CapacFT        2        330     
+01/01/1900     1 COL - ECU    CapacFT        3        400     
+01/01/1900     1 COL - ECU    CapacFT        4        400     
+01/01/1900     1 COL - ECU    CapacFT        5        400     
+01/01/1900     1 COL - ECU    CintFT         *          0     
+01/01/1900     1 COL - ECU    CintTF         *          0     

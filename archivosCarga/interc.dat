@@ -1,0 +1,4 @@
+$version=1
+!.Num ....Name.... FROM........ TO.......... Type Currency    CapacFT     LossFT    CapacTF     LossTF
+!                                                                  MW         pu         MW         pu
+    1 COL - ECU    COLOMBIA     ECUADOR         0      $          220                     0           
