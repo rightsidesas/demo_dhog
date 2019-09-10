@@ -1,0 +1,13 @@
+BD = F:\rightside\DHOG\entregaTasajero\DHOG.accdb
+RutaArchivos = F:\rightside\DHOG\entregaTasajero\archivosCarga
+Modelo = MP
+CantidadPeriodos = 52
+PeriodoInicialBD = 1
+AnoReferenciaAportes = 2000
+CrearEscenarios = true
+CreacionAutomaticaEscenarios = true
+PrimerEscenarioACrear = 1
+NombreCarpetaEscenario = BD-Caso_
+LeerDemandaEcuador = false
+OmitirRios = 300_400
+RepetirMantenimientos = false
