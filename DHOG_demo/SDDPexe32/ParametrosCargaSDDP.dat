@@ -1,0 +1,13 @@
+BD = F:\rightside\DHOG\modeloDHOG_v2.5\DHOG_MENSUAL.accdb
+RutaArchivos = F:\rightside\DHOG\modeloDHOG_v2.5\archivosCarga\SEMANA22_LP_mpode
+Modelo = LP
+CantidadPeriodos = 12
+PeriodoInicialBD = 1
+AnoReferenciaAportes = 2012
+CrearEscenarios = false
+CreacionAutomaticaEscenarios = false
+PrimerEscenarioACrear = 1
+NombreCarpetaEscenario = BD-Caso_
+LeerDemandaEcuador = false
+OmitirRios = 300_400
+RepetirMantenimientos = false
